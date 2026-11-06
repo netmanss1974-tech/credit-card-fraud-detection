@@ -1,0 +1,10 @@
+Dataset
+The dataset used for this project is the Credit Card Fraud Detection dataset available on Kaggle.
+
+Due to the large size of the creditcard.csv file, the dataset is not included directly in this GitHub repository.
+
+Download the dataset from Kaggle:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading and extracting the dataset, place creditcard.csv in the same folder as Credit_Card_Fraud_Detection.ipynb before running the notebook.
