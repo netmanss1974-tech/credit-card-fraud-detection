@@ -1,3 +1,5 @@
 Credit Card Fraud Detection Using Machine Learning
 
 This project aims to develop a machine learning model that can identify fraudulent credit card transactions. I will compare several machine learning algorithms, including Logistic Regression, Random Forest, SVM, and XGBoost. Because fraudulent transactions make up a very small percentage of the dataset, I will explore techniques such as SMOTE and Random Under-Sampling to address class imbalance. I will compare the models using metrics such as precision, recall, F1-score, ROC-AUC, and PR-AUC. The overall goal is to determine which approach most effectively identifies fraudulent transactions.
+
+I was unable to upload my data set to this repository because the dataset was 150MB.
